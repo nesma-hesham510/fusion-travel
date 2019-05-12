@@ -1,3 +1,3 @@
 # fusion-travel
 Chrome, firefox
-https://rawgit.com/nesma-hesham510/fusion-travel/master/index.html
+https://nesma-hesham510.github.io/fusion-travel/
