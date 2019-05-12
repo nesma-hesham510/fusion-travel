@@ -1,0 +1,114 @@
+#product h1 {font-family: 'Pacifico', cursive;
+    color: #fbad27;
+    font-size: 4rem;
+}
+
+#product p {font-size: 25px;
+}
+
+#product button {font-weight: bold;
+font-size: 18px;
+padding: 12px;}
+
+body {font-family: 'Roboto', sans-serif;
+}
+
+header {background-image: url("../img/1-min.jpg");
+    background-repeat: no-repeat;
+    background-position: 0px -190px;
+    background-size: cover;
+    height: 610px;
+}
+
+.nav-tabs {padding-top: 12px;
+    padding-bottom: 12px;}
+
+ul a {color: white;
+}
+ul #hotline {margin-left: 450px;}
+
+.fa-phone {margin-right:5px;
+size: 80%;}
+
+#product {text-align: center;
+padding-top: 160px;
+width: 80%;
+margin: auto;}
+
+.welcome {text-align: center;
+width: 60%;
+margin: auto;}
+
+.container {width: 60%;}
+
+.welcome h2 {font-family: 'Pacifico', cursive;
+margin-top: 40px;}
+
+.row {padding-top: 40px;}
+
+.col-md-4 {width: 20%;}
+
+.col-md-4 h5 {text-align: center;}
+
+.col-md-4 i {padding-right: 7px;
+color: #fbad27;}
+
+.col-md-4 p {padding-top: 10px;
+font-size: 15px;}
+
+#destination {text-align: center;
+padding-top: 20px;
+width: 60%;
+margin: auto;}
+
+#destination h3 {font-family: 'Pacifico', cursive;}
+
+input {border: none;
+margin-left: 0;
+text-align: center;
+font-size: 15px;
+}
+
+.images {padding-top: 20px;
+}
+
+#destination img {
+height: 250px;
+max-width: 30%;
+padding: 10px;}
+
+#clients {text-align: center;
+padding-top: 30px;
+width: 60%;
+margin: auto;}
+
+#clients h4 {font-family: 'Pacifico', cursive;
+}
+.says {background-color: #fbad27;
+height: 300px;}
+
+.quote img {width: 15%;
+float: left;
+padding-right:10px;}
+
+blockquote {padding-top: 25px;
+font-style: italic;
+font-size: 25px;}
+
+#contact .row {width: 100%;
+margin: auto;
+margin-left: 150px;
+padding-top: 60px;
+}
+
+.col-md-3 {width: 20%;}
+
+.col-md-3 ul {list-style: none;
+display: contents;}
+
+.col-md-3 i {padding-right: 8px;
+font-size: 20px;
+color: #fbad27;}
+
+.col-md-3 .icons {padding-left: 7px;
+}
